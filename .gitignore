@@ -3,9 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-
-./LSTM/data.csv
-./LSTM/embeddings
+test.txt
+LSTM/data.csv
+LSTM/embeddings
 .idea
 
 # C extensions
