@@ -1,2 +1,2 @@
-# hello-world
-the first time
+LSTM文件夹是基于LSTM模型的情感分析模型
+
